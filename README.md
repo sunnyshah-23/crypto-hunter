@@ -1,7 +1,7 @@
-###Crypto-Hunter
+### Crypto-Hunter
 A cryptocurrency app where users can see the current price of all the crypto and can analyze it with the help of charts.
 
-###Website URL
+### Website URL
 https://crypto-hunter-f6008.web.app/
 
 ### Front End
