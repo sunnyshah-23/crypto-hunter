@@ -9,7 +9,7 @@ https://crypto-hunter-f6008.web.app/
 * Javascript
 * Material UI
 
-###API
+### API
 https://www.coingecko.com/en/api
 
 ## Available Scripts
